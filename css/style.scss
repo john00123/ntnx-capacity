@@ -16,7 +16,7 @@ body {
 }
 
 .main-container {
-	@include flex(center, center, row);
+	@include flex(flex-start, space-between, row);
 }
 
 .banner {
@@ -31,10 +31,9 @@ body {
 }
 
 aside {
-	@include size(102%, 240px);
+	@include size(1200px, 240px);
 	display: block;
 	background-color: white;
-	float: left;
 }
 
 header{
@@ -43,4 +42,47 @@ header{
 	display: flex;
 	align-items: center;
 	padding: 0 20px;
+}
+
+article{
+	width: 100%;
+}
+
+a{
+	@include link;
+}
+.container{
+	padding: 20px;
+}
+
+.table-wrapper{
+	background-color:white;
+	width: 100%;
+	border-radius: 4px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+
+table{
+	width: calc(100% + 10px);
+	margin: 0 -5px;
+}
+
+th, td{
+	height: 40px;
+	vertical-align: middle;
+ text-align: left;
+ padding: 0 15px;
+}
+
+td > p, th > p{
+	text-align: right;
+}
+
+th:not(:last-child){
+	border-right: 1px solid $border-color-3;
+}
+
+th, tr:not(:last-child){
+	border-bottom: 1px solid $border-color-3;
 }
