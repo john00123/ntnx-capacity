@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Sessions---Notification-Banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-364.000000, -1175.000000)">
+        <g id="With-Actions" transform="translate(240.000000, 1100.000000)" fill="#22A5F7">
+            <g id="with-actions-info">
+                <g id="Notification" transform="translate(90.000000, 10.000000)">
+                    <g id="Icon" transform="translate(20.000000, 51.000000)">
+                        <path d="M20.5918898,14.8525029 L22.0716106,17.7523722 L25.4313646,18.193173 C25.9757474,18.2644347 26.1934232,18.9011085 25.7974056,19.2628605 L23.3515735,21.4960734 L23.9489134,24.6681341 C24.0454876,25.1821478 23.4754056,25.5758333 22.9909876,25.3293411 L19.9999992,23.8095071 L17.0090108,25.3293411 C16.5245928,25.5758333 15.9545108,25.1821478 16.051085,24.6681341 L16.6484249,21.4960734 L14.2025986,19.2628605 C13.8065752,18.9011085 14.024251,18.2644347 14.5686338,18.193173 L17.9283878,17.7523722 L19.4081086,14.8525029 C19.6475929,14.382499 20.3520187,14.382499 20.5918898,14.8525029" id="Star"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
